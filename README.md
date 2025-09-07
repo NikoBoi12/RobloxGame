@@ -1,6 +1,6 @@
-# Undertale RNG 🎲✨
+# My Roblox GAme 🎲✨
 
-A Roblox experience inspired by **Undertale**, built with an RNG (random number generator) system that keeps players coming back for more.  
+A Roblox experience inspired by **Sols rng**, built with an RNG (random number generator) system that keeps players coming back for more.  
 This project has been one of my largest and most rewarding game development efforts.
 
 ---
@@ -15,7 +15,7 @@ This project has been one of my largest and most rewarding game development effo
 ---
 
 ## 🎮 Features
-- RNG-based aura/roll system inspired by *Undertale*  
+- RNG-based aura/roll system
 - Crafting and progression mechanics  
 - NPC quests and tutorial flow  
 - Custom UI design and tween animations  
@@ -34,8 +34,8 @@ It is not intended for reuse, redistribution, or live deployment. Instead, it se
 
 ## 🚀 Reflections
 Creating *Undertale RNG* has been a huge learning journey:
-- I overcame technical challenges (e.g., RNG balancing, crafting progression, UI systems)  
-- Learned how to manage licensing restrictions and rework assets  
+- I overcame technical challenges of updating and maintaining a project!
+- Learned how to program a game, look at analyitics, create a product hundred of thousands of people enjoy, and manage a development team
 - Experienced the excitement of seeing a project grow to millions of visits  
 
 Above all, this project showed me the value of combining **creativity, persistence, and technical skill** to deliver a game players love.
