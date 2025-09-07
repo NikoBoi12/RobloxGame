@@ -1,0 +1,173 @@
+local Config = {
+	["DialogPackets"] = {
+		PartA = {
+			{
+				["Label"] = script.Parent.Parent.TextLabel,
+				["Dialog"] = "Ah...",
+				["Speed"] = .07,
+				["SpeedAudio"] = script.Txt,
+				["Persist"] = 1,
+			},
+			{
+				["Label"] = script.Parent.Parent.TextLabel,
+				["Dialog"] = "Guess I had this coming.",
+				["Speed"] = .07,
+				["SpeedAudio"] = script.Txt,
+				["Persist"] = 1,
+			},
+			{
+				["Label"] = script.Parent.Parent.TextLabel,
+				["Dialog"] = "If only I wore my safety goggles, heh...",
+				["Speed"] = .07,
+				["SpeedAudio"] = script.Txt,
+				["Persist"] = 1,
+			},
+		},
+		PartB = {
+			{
+				ParentGui = script.Parent.Parent.DialogFrame,
+				Dialog = "...",
+				Speed = .1,
+				Persist = 1,
+				CustomLabel = script.StarloLetter,
+				SpeechAudio = script.Txt,
+				Effects = {"RanShake"},
+				RanShake = {
+					BobbleX = {Min = 55, Max = 65, Min2= .02, Max2 = .025},
+					BobbleY = {Min = 40, Max = 50, Min2= .015, Max2 = .02},
+				},
+			},
+			{
+				ParentGui = script.Parent.Parent.DialogFrame,
+				Dialog = "I...",
+				Speed = .07,
+				Persist = 1,
+				CustomLabel = script.StarloLetter,
+				SpeechAudio = script.Txt,
+				Effects = {"RanShake"},
+				RanShake = {
+					BobbleX = {Min = 55, Max = 65, Min2= .02, Max2 = .025},
+					BobbleY = {Min = 40, Max = 50, Min2= .015, Max2 = .02},
+				},
+			},
+			{
+				ParentGui = script.Parent.Parent.DialogFrame,
+				Dialog = "I can't lie...",
+				Speed = .08,
+				Persist = 1,
+				CustomLabel = script.StarloLetter,
+				SpeechAudio = script.Txt,
+				Effects = {"RanShake"},
+				RanShake = {
+					BobbleX = {Min = 55, Max = 65, Min2= .02, Max2 = .025},
+					BobbleY = {Min = 40, Max = 50, Min2= .015, Max2 = .02},
+				},
+			},
+			{
+				ParentGui = script.Parent.Parent.DialogFrame,
+				Dialog = "I'm not ready...",
+				Speed = .09,
+				Persist = 1,
+				CustomLabel = script.StarloLetter,
+				SpeechAudio = script.Txt,
+				Effects = {"RanShake"},
+				RanShake = {
+					BobbleX = {Min = 55, Max = 65, Min2= .02, Max2 = .025},
+					BobbleY = {Min = 40, Max = 50, Min2= .015, Max2 = .02},
+				},
+			},
+			{
+				ParentGui = script.Parent.Parent.DialogFrame,
+				Dialog = "...",
+				Speed = .1,
+				Persist = 1,
+				CustomLabel = script.StarloLetter,
+				SpeechAudio = script.Txt,
+				Effects = {"RanShake"},
+				RanShake = {
+					BobbleX = {Min = 55, Max = 65, Min2= .02, Max2 = .025},
+					BobbleY = {Min = 40, Max = 50, Min2= .015, Max2 = .02},
+				},
+			},
+			{
+				ParentGui = script.Parent.Parent.DialogFrame,
+				Dialog = "Let my parents know...",
+				Speed = .11,
+				Persist = 1,
+				CustomLabel = script.StarloLetter,
+				SpeechAudio = script.Txt,
+				Effects = {"RanShake"},
+				RanShake = {
+					BobbleX = {Min = 55, Max = 65, Min2= .02, Max2 = .025},
+					BobbleY = {Min = 40, Max = 50, Min2= .015, Max2 = .02},
+				},
+			},
+			{
+				ParentGui = script.Parent.Parent.DialogFrame,
+				Dialog = "I'll be away for a while.",
+				Speed = .12,
+				Persist = 1,
+				CustomLabel = script.StarloLetter,
+				SpeechAudio = script.Txt,
+				Effects = {"RanShake"},
+				RanShake = {
+					BobbleX = {Min = 55, Max = 65, Min2= .02, Max2 = .025},
+					BobbleY = {Min = 40, Max = 50, Min2= .015, Max2 = .02},
+				},
+			},
+			{
+				ParentGui = script.Parent.Parent.DialogFrame,
+				Dialog = "See you again soon...",
+				Speed = .13,
+				Persist = 1,
+				CustomLabel = script.StarloLetter,
+				SpeechAudio = script.Txt,
+				Effects = {"RanShake"},
+				RanShake = {
+					BobbleX = {Min = 55, Max = 65, Min2= .02, Max2 = .025},
+					BobbleY = {Min = 40, Max = 50, Min2= .015, Max2 = .02},
+				},
+			},
+		},
+		PartC = {
+			{
+				ParentGui = script.Parent.Parent.DialogFrame,
+				Dialog = "...",
+				Speed = .1,
+				Persist = 1,
+				CustomLabel = script.JusticeLetter,
+				Effects = {"CustomShake", "FadeIn"},
+				CustomShake = {
+					BobbleX = {Min = 30, Max = 40, Min2= .05, Max2 = .025},
+					BobbleY = {Min = 25, Max = 35, Min2= .05, Max2 = .025},
+				},
+			},
+			{
+				ParentGui = script.Parent.Parent.DialogFrame,
+				Dialog = "I...",
+				Speed = .1,
+				Persist = 1,
+				CustomLabel = script.JusticeLetter,
+				Effects = {"CustomShake", "FadeIn"},
+				CustomShake = {
+					BobbleX = {Min = 30, Max = 40, Min2= .05, Max2 = .025},
+					BobbleY = {Min = 25, Max = 35, Min2= .05, Max2 = .025},
+				},
+			},
+			{
+				ParentGui = script.Parent.Parent.DialogFrame,
+				Dialog = "I'm so sorry...",
+				Speed = .1,
+				Persist = 1,
+				CustomLabel = script.JusticeLetter,
+				Effects = {"CustomShake", "FadeIn"},
+				CustomShake = {
+					BobbleX = {Min = 30, Max = 40, Min2= .05, Max2 = .025},
+					BobbleY = {Min = 25, Max = 35, Min2= .05, Max2 = .025},
+				},
+			},
+		},
+	},
+}
+
+return Config
