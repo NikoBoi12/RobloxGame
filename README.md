@@ -1,4 +1,4 @@
-# My Roblox GAme 🎲✨
+# My Roblox Game 🎲✨
 
 A Roblox experience inspired by **Sols rng**, built with an RNG (random number generator) system that keeps players coming back for more.  
 This project has been one of my largest and most rewarding game development efforts.
