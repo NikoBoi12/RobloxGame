@@ -10,7 +10,8 @@ This project has been one of my largest and most rewarding game development effo
 - **$15,000+ revenue** generated over the span of a year  
 - Over a year of **active development and iteration**  
 - Built entirely in **Roblox Lua** with custom systems for progression, crafting, and item management  
-- Certain files have been removed due to **licensing restrictions**, but the repository still reflects the project’s overall structure and development quality  
+- Certain files have been removed due to **licensing restrictions**, but the repository still reflects the project’s overall structure and development quality
+- Link: https://www.roblox.com/home
 
 ---
 
